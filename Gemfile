@@ -18,6 +18,9 @@ gem 'webpacker', '~> 5.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise'
+gem "factory_bot_rails"
+gem 'capybara'
+gem 'pry-rails'
 
 
 group :development, :test do
