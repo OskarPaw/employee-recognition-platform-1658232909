@@ -11,7 +11,7 @@ rails server
 ```
 ## Demo
 
-https://powerful-sea-26938.herokuapp.com/
+https://boiling-ridge-12102.herokuapp.com/
 
 ### User credentials 
 
